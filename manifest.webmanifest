@@ -1,0 +1,12 @@
+{
+  "name": "Apresentacao",
+  "short_name": "Apresentacao",
+  "id": "com.quiz148.presentation",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
