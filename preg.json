@@ -1,24 +1,24 @@
 [
 {
 "1":{
-"titulo":"",
-"resposta":""
+"titulo":"Put the verb \"sleep\" in the future continuous tense.",
+"resposta":"Will be sleeping"
 },
 "2":{
-"titulo":"",
-"resposta":""
+"titulo":"Fill in: 'I hope flying cars ___ (invent) by the time I'm 30.'",
+"resposta":"will have been invented"
 },
 "3":{
-"titulo":"How do you spell the FUTURE CONTINUOUS tense of the verb \"LIE\"?",
+"titulo":"How do you spell the future continuous tense of the verb \"lie\"?",
 "resposta":"WILL BE LYING"
 },
 "4":{
-"titulo":"How many words would you need for a verb in the future perfect continuous tense, passive voice?",
-"resposta":"5 (will have been being [past participle])"
+"titulo":"What is the future perfect tense of the verb \"swear\"?",
+"resposta":"Will have sworn"
 },
 "5":{
-"titulo":"What is the future perfect tense of the verb \"behold\"?",
-"resposta":"Will have beheld"
+"titulo":"How many words would you need for a verb in the future perfect continuous tense, passive voice?",
+"resposta":"5 - will have been being [past participle]"
 }
 },
 {
@@ -31,7 +31,7 @@
 "resposta":"such"
 },
 "3":{
-"titulo":"Correct the sentence: 'He is such intelligent that he finished the test early'.",
+"titulo":"Correct the sentence: 'He is such intelligent that he finished the test early.'",
 "resposta":"He is SO intelligent that he finished the test early."
 },
 "4":{
@@ -39,35 +39,35 @@
 "resposta":"So + adjective (without a noun): \"so difficult\", never followed directly by a noun."
 },
 "5":{
-"titulo":"Correct the sentence: 'They are so good friend that they never argued'.",
+"titulo":"Correct the sentence: 'They are so good friend that they never argued.'",
 "resposta":"They (1:are/2:WERE) SUCH good FRIENDS that they never (1:ARGUE/2:argued)."
 }
 },
 {
 "1":{
-"titulo":"Fill in: \"They arrived early ___ get good seats\".",
+"titulo":"Fill in: \"They arrived early ___ get good seats.\"",
 "resposta":"to/in order to/so as to"
 },
 "2":{
-"titulo":"",
-"resposta":""
+"titulo":"Fill in: \"I did all my homework so ___ to get good grades.\"",
+"resposta":"as to"
 },
 "3":{
-"titulo":"Correct the sentence: \"She's studies in order to passing the exam\".",
+"titulo":"Correct the sentence: \"She's studies in order to passing the exam.\"",
 "resposta":"(SHE studies/she's STUDYING) in order to PASS the exam."
 },
 "4":{
-"titulo":"Fill in (informally): \"I study ___ learn english\".",
+"titulo":"Fill in (informally): \"I study ___ learn english.\"",
 "resposta":"to"
 },
 "5":{
-"titulo":"Correct the sentence: \"I woken up early so to not missing the bus\".",
+"titulo":"Correct the sentence: \"I woken up early so to not missing the bus.\"",
 "resposta":"(I WOKE/I'VE woken) up early so AS NOT TO MISS the bus."
 }
 },
 {
 "1":{
-"titulo":"This word describes a situation that could hurt you — the opposite of 'safe'.",
+"titulo":"This word describes a situation that could hurt you - the opposite of 'safe'.",
 "resposta":"Dangerous"
 },
 "2":{
@@ -75,11 +75,11 @@
 "resposta":"To rescue / Rescuing"
 },
 "3":{
-"titulo":"'Fill in: 'After the car crash, the driver was badly ___'.",
+"titulo":"'Fill in: 'After the car crash, the driver was badly ___.'",
 "resposta":"harmed / injured"
 },
 "4":{
-"titulo":"Fill in: 'The hikers were ___ when the storm hit'.",
+"titulo":"Fill in: 'When the storm hit, the hikers were ___ .'",
 "resposta":"in danger"
 },
 "5":{
