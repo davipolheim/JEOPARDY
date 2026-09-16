@@ -1,112 +1,112 @@
 [
-	[
-		{
-			"titulo":"",
-			"resposta":""
-		},
-		{
-			"titulo":"",
-			"resposta":""
-		},
-		{
-			"titulo":"How do you spell the FUTURE CONTINUOUS tense of the verb \"LIE\"?",
-			"resposta":"WILL BE LYING"
-		},
-		{
-			"titulo":"How many words would you need for a verb in the future perfect continuous tense, passive voice?",
-			"resposta":"5 (will have been being [past participle])"
-		},
-		{
-			"titulo":"What is the future perfect tense of the verb \"behold\"?",
-			"resposta":"Will have beheld"
-		}
-	],
-    [
-		{
-			"titulo":"",
-			"resposta":""
-		},
-		{
-			"titulo":"",
-			"resposta":""
-		},
-		{
-			"titulo":"",
-			"resposta":""
-		},
-		{
-			"titulo":"",
-			"resposta":""
-		},
-		{
-			"titulo":"",
-			"resposta":""
-		}
-	],
-    [
-		{
-			"titulo":"Fill in: \"They arrived early ___ get good seats\".",
-			"resposta":"to/in order to/so as to"
-		},
-		{
-			"titulo":"",
-			"resposta":""
-		},
-		{
-			"titulo":"Fill in (informally): \"I study ___ learn english\".",
-			"resposta":"to"
-		},
-        {
-			"titulo":"Repeat without mistakes: \"She's studies in order to passing the exam\".",
-			"resposta":"(SHE studies/she's STUDYING) in order to PASS the exam."
-		}
-		{
-			"titulo":"Repeat without mistakes: \"I woken up early so to not missing the bus\".",
-			"resposta":"(I WOKE/I'VE woken) up early so AS NOT TO MISS the bus."
-		}
-	],
-    [
-		{
-			"titulo":"",
-			"resposta":""
-		},
-		{
-			"titulo":"",
-			"resposta":""
-		},
-		{
-			"titulo":"",
-			"resposta":""
-		},
-		{
-			"titulo":"",
-			"resposta":""
-		},
-		{
-			"titulo":"",
-			"resposta":""
-		}
-	],
-    [
-		{
-			"titulo":"What do we call a person who works in a hospital and takes care of patients?",
-			"resposta":"Nurse"
-		},
-		{
-			"titulo":"Who works in a restaurant and brings food to customers?",
-			"resposta":"Waiter/Waitress"
-		},
-		{
-			"titulo":"What is a person who works for a company but is not the owner called?",
-			"resposta":"Employee"
-		},
-		{
-			"titulo":"Fill in: \"Someone who works for himself or herself is ___.\"",
-			"resposta":"self-employed"
-		},
-		{
-			"titulo":"What is the difference between a job and a career?",
-			"resposta":"A job is a specific work position; a career is a long-term professional path."
-		}
-	]
+{
+"1":{
+"titulo":"",
+"resposta":""
+},
+"2":{
+"titulo":"",
+"resposta":""
+},
+"3":{
+"titulo":"How do you spell the FUTURE CONTINUOUS tense of the verb \"LIE\"?",
+"resposta":"WILL BE LYING"
+},
+"4":{
+"titulo":"How many words would you need for a verb in the future perfect continuous tense, passive voice?",
+"resposta":"5 (will have been being [past participle])"
+},
+"5":{
+"titulo":"What is the future perfect tense of the verb \"behold\"?",
+"resposta":"Will have beheld"
+}
+},
+{
+"1":{
+"titulo":"Fill in: 'She was ___ tired that she fell asleep on the couch.'",
+"resposta":"so"
+},
+"2":{
+"titulo":"Fill in: 'It was ___ a boring movie that we left early.'",
+"resposta":"such"
+},
+"3":{
+"titulo":"Correct the sentence: 'He is such intelligent that he finished the test early'.",
+"resposta":"He is SO intelligent that he finished the test early."
+},
+"4":{
+"titulo":"Explain: when do we use 'so' instead of 'such'?",
+"resposta":"So + adjective (without a noun): \"so difficult\", never followed directly by a noun."
+},
+"5":{
+"titulo":"Correct the sentence: 'They are so good friend that they never argued'.",
+"resposta":"They (1:are/2:WERE) SUCH good FRIENDS that they never (1:ARGUE/2:argued)."
+}
+},
+{
+"1":{
+"titulo":"Fill in: \"They arrived early ___ get good seats\".",
+"resposta":"to/in order to/so as to"
+},
+"2":{
+"titulo":"",
+"resposta":""
+},
+"3":{
+"titulo":"Correct the sentence: \"She's studies in order to passing the exam\".",
+"resposta":"(SHE studies/she's STUDYING) in order to PASS the exam."
+},
+"4":{
+"titulo":"Fill in (informally): \"I study ___ learn english\".",
+"resposta":"to"
+},
+"5":{
+"titulo":"Correct the sentence: \"I woken up early so to not missing the bus\".",
+"resposta":"(I WOKE/I'VE woken) up early so AS NOT TO MISS the bus."
+}
+},
+{
+"1":{
+"titulo":"This word describes a situation that could hurt you — the opposite of 'safe'.",
+"resposta":"Dangerous"
+},
+"2":{
+"titulo":"If a firefighter pulls someone out of a burning building, that's called ___.",
+"resposta":"To rescue / Rescuing"
+},
+"3":{
+"titulo":"'Fill in: 'After the car crash, the driver was badly ___'.",
+"resposta":"harmed / injured"
+},
+"4":{
+"titulo":"Fill in: 'The hikers were ___ when the storm hit'.",
+"resposta":"in danger"
+},
+"5":{
+"titulo":"This verb means to get well again after being sick or badly hurt, and is often used with 'from an illness/injury'.",
+"resposta":"To recover"
+}
+},
+{
+"1":{
+"titulo":"What do we call a person who works in a hospital and takes care of patients?",
+"resposta":"Nurse"
+},
+"2":{
+"titulo":"Who works in a restaurant and brings food to customers?",
+"resposta":"Waiter/Waitress"
+},
+"3":{
+"titulo":"What is a person who works for a company but is not the owner called?",
+"resposta":"Employee"
+},
+"4":{
+"titulo":"Fill in: \"Someone who works for himself or herself is ___.\"",
+"resposta":"self-employed"
+},
+"5":{
+"titulo":"What is the difference between a job and a career?",
+"resposta":"A job is a specific work position; a career is a long-term professional path."
+}
+}
 ]
