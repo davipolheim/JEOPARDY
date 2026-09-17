@@ -36,8 +36,7 @@ elseEventsChainSatisfied = true;
 
 {
 
-gdjs.copyArray(gdjs.InicioCode.GDpasswordObjects1, gdjs.InicioCode.GDpasswordObjects2);
-
+gdjs.copyArray(runtimeScene.getObjects("password"), gdjs.InicioCode.GDpasswordObjects2);
 
 if (!elseEventsChainSatisfied) {
 let isConditionTrue_0 = false;
@@ -65,7 +64,7 @@ elseEventsChainSatisfied = true;
 
 {
 
-/* Reuse gdjs.InicioCode.GDpasswordObjects1 */
+gdjs.copyArray(runtimeScene.getObjects("password"), gdjs.InicioCode.GDpasswordObjects1);
 
 if (!elseEventsChainSatisfied) {
 let isConditionTrue_0 = false;
@@ -129,11 +128,6 @@ for (var i = 0, k = 0, l = gdjs.InicioCode.GDbuttonObjects1.length;i<l;++i) {
 }
 gdjs.InicioCode.GDbuttonObjects1.length = k;
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("password"), gdjs.InicioCode.GDpasswordObjects1);
-{for(var i = 0, len = gdjs.InicioCode.GDpasswordObjects1.length ;i < len;++i) {
-    gdjs.InicioCode.GDpasswordObjects1[i].getBehavior("Text").setText("");
-}
-}
 
 { //Subevents
 gdjs.InicioCode.eventsList0(runtimeScene);} //End of subevents
