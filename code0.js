@@ -20,25 +20,9 @@ let elseEventsChainSatisfied = false;
 
 {
 
-
-elseEventsChainSatisfied = false;
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.systemInfo.isMobile();
-if (isConditionTrue_0) {
-{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Celular", false);
-}
-elseEventsChainSatisfied = true;
-}
-
-}
-
-
-{
-
 gdjs.copyArray(runtimeScene.getObjects("password"), gdjs.InicioCode.GDpasswordObjects2);
 
-if (!elseEventsChainSatisfied) {
+elseEventsChainSatisfied = false;
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 for (var i = 0, k = 0, l = gdjs.InicioCode.GDpasswordObjects2.length;i<l;++i) {
@@ -49,14 +33,13 @@ for (var i = 0, k = 0, l = gdjs.InicioCode.GDpasswordObjects2.length;i<l;++i) {
     }
 }
 gdjs.InicioCode.GDpasswordObjects2.length = k;
-if (!elseEventsChainSatisfied && isConditionTrue_0) {
+if (isConditionTrue_0) {
 /* Reuse gdjs.InicioCode.GDpasswordObjects2 */
 {for(var i = 0, len = gdjs.InicioCode.GDpasswordObjects2.length ;i < len;++i) {
     gdjs.InicioCode.GDpasswordObjects2[i].hide(false);
 }
 }
 elseEventsChainSatisfied = true;
-}
 }
 
 }
