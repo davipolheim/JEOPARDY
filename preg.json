@@ -49,12 +49,12 @@
 "resposta":"to/in order to/so as to"
 },
 "1":{
-"titulo":"Fill in: \"I did all my homework so ___ to get good grades.\"",
-"resposta":"as to"
-},
-"2":{
 "titulo":"Correct the sentence: \"She's studies in order to passing the exam.\"",
 "resposta":"(SHE studies/she's STUDYING) in order to PASS the exam."
+},
+"2":{
+"titulo":"Fill in: \"I did all my homework so ___ to get good grades.\"",
+"resposta":"as to"
 },
 "3":{
 "titulo":"Fill in (informally): \"I study ___ learn english.\"",
