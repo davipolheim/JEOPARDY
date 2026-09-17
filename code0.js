@@ -7,6 +7,9 @@ gdjs.InicioCode.GDbuttonObjects3= [];
 gdjs.InicioCode.GDpasswordObjects1= [];
 gdjs.InicioCode.GDpasswordObjects2= [];
 gdjs.InicioCode.GDpasswordObjects3= [];
+gdjs.InicioCode.GDtextObjects1= [];
+gdjs.InicioCode.GDtextObjects2= [];
+gdjs.InicioCode.GDtextObjects3= [];
 
 
 gdjs.InicioCode.mapOfGDgdjs_9546InicioCode_9546GDbuttonObjects1Objects = Hashtable.newFrom({"button": gdjs.InicioCode.GDbuttonObjects1});
@@ -194,6 +197,9 @@ gdjs.InicioCode.GDbuttonObjects3.length = 0;
 gdjs.InicioCode.GDpasswordObjects1.length = 0;
 gdjs.InicioCode.GDpasswordObjects2.length = 0;
 gdjs.InicioCode.GDpasswordObjects3.length = 0;
+gdjs.InicioCode.GDtextObjects1.length = 0;
+gdjs.InicioCode.GDtextObjects2.length = 0;
+gdjs.InicioCode.GDtextObjects3.length = 0;
 
 gdjs.InicioCode.eventsList2(runtimeScene);
 gdjs.InicioCode.GDbuttonObjects1.length = 0;
@@ -202,6 +208,9 @@ gdjs.InicioCode.GDbuttonObjects3.length = 0;
 gdjs.InicioCode.GDpasswordObjects1.length = 0;
 gdjs.InicioCode.GDpasswordObjects2.length = 0;
 gdjs.InicioCode.GDpasswordObjects3.length = 0;
+gdjs.InicioCode.GDtextObjects1.length = 0;
+gdjs.InicioCode.GDtextObjects2.length = 0;
+gdjs.InicioCode.GDtextObjects3.length = 0;
 
 
 return;
