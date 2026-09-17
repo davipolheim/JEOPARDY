@@ -53,7 +53,7 @@ gdjs.CelularCode.GDloading_9595stateObjects5= [];
 gdjs.CelularCode.GDloading_9595stateObjects6= [];
 
 
-gdjs.CelularCode.userFunc0xcc6140 = function GDJSInlineCode(runtimeScene) {
+gdjs.CelularCode.userFunc0xada128 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 try {
     if (navigator.wakeLock)
@@ -68,7 +68,7 @@ gdjs.CelularCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.CelularCode.userFunc0xcc6140(runtimeScene);
+gdjs.CelularCode.userFunc0xada128(runtimeScene);
 
 }
 
@@ -190,14 +190,14 @@ gdjs.copyArray(asyncObjectsList.getObjects("loading_state"), gdjs.CelularCode.GD
 }
 
 
-};gdjs.CelularCode.asyncCallback12899148 = function (runtimeScene, asyncObjectsList) {
+};gdjs.CelularCode.asyncCallback12896060 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.CelularCode.localVariables);
 
 { //Subevents
 gdjs.CelularCode.eventsList3(runtimeScene, asyncObjectsList);} //End of subevents
 gdjs.CelularCode.localVariables.length = 0;
 }
-gdjs.CelularCode.idToCallbackMap.set(12899148, gdjs.CelularCode.asyncCallback12899148);
+gdjs.CelularCode.idToCallbackMap.set(12896060, gdjs.CelularCode.asyncCallback12896060);
 gdjs.CelularCode.eventsList4 = function(runtimeScene) {
 
 {
@@ -209,7 +209,7 @@ const asyncObjectsList = new gdjs.LongLivedObjectsList();
 asyncObjectsList.backupLocalVariablesContainers(gdjs.CelularCode.localVariables);
 for (const obj of gdjs.CelularCode.GDentrarObjects2) asyncObjectsList.addObject("entrar", obj);
 for (const obj of gdjs.CelularCode.GDloading_9595stateObjects2) asyncObjectsList.addObject("loading_state", obj);
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtsExt__Firestore__WriteDocumentAsync.func(runtimeScene, "especial/final/jogando", runtimeScene.getGame().getVariables().getFromIndex(1).getAsString(), runtimeScene.getScene().getVariables().getFromIndex(1), gdjs.CelularCode.localVariables[0].getFromIndex(0), null), (runtimeScene) => (gdjs.CelularCode.asyncCallback12899148(runtimeScene, asyncObjectsList)), 12899148, asyncObjectsList);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtsExt__Firestore__WriteDocumentAsync.func(runtimeScene, "especial/final/jogando", runtimeScene.getGame().getVariables().getFromIndex(1).getAsString(), runtimeScene.getScene().getVariables().getFromIndex(1), gdjs.CelularCode.localVariables[0].getFromIndex(0), null), (runtimeScene) => (gdjs.CelularCode.asyncCallback12896060(runtimeScene, asyncObjectsList)), 12896060, asyncObjectsList);
 }
 }
 
@@ -387,14 +387,14 @@ gdjs.copyArray(asyncObjectsList.getObjects("big_button"), gdjs.CelularCode.GDbig
 }
 
 
-};gdjs.CelularCode.asyncCallback12904868 = function (runtimeScene, asyncObjectsList) {
+};gdjs.CelularCode.asyncCallback12901780 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.CelularCode.localVariables);
 
 { //Subevents
 gdjs.CelularCode.eventsList7(runtimeScene, asyncObjectsList);} //End of subevents
 gdjs.CelularCode.localVariables.length = 0;
 }
-gdjs.CelularCode.idToCallbackMap.set(12904868, gdjs.CelularCode.asyncCallback12904868);
+gdjs.CelularCode.idToCallbackMap.set(12901780, gdjs.CelularCode.asyncCallback12901780);
 gdjs.CelularCode.eventsList8 = function(runtimeScene) {
 
 {
@@ -405,7 +405,7 @@ gdjs.CelularCode.eventsList8 = function(runtimeScene) {
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
 asyncObjectsList.backupLocalVariablesContainers(gdjs.CelularCode.localVariables);
 for (const obj of gdjs.CelularCode.GDbig_9595buttonObjects1) asyncObjectsList.addObject("big_button", obj);
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtsExt__Firestore__WriteDocumentAsync.func(runtimeScene, "especial/final/jogando", runtimeScene.getGame().getVariables().getFromIndex(1).getAsString(), runtimeScene.getScene().getVariables().getFromIndex(1), gdjs.CelularCode.localVariables[0].getFromIndex(0), null), (runtimeScene) => (gdjs.CelularCode.asyncCallback12904868(runtimeScene, asyncObjectsList)), 12904868, asyncObjectsList);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtsExt__Firestore__WriteDocumentAsync.func(runtimeScene, "especial/final/jogando", runtimeScene.getGame().getVariables().getFromIndex(1).getAsString(), runtimeScene.getScene().getVariables().getFromIndex(1), gdjs.CelularCode.localVariables[0].getFromIndex(0), null), (runtimeScene) => (gdjs.CelularCode.asyncCallback12901780(runtimeScene, asyncObjectsList)), 12901780, asyncObjectsList);
 }
 }
 
@@ -480,7 +480,7 @@ gdjs.CelularCode.eventsList11 = function(runtimeScene) {
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(12912972);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(12909908);
 }
 if (isConditionTrue_0) {
 {gdjs.evtTools.camera.setCameraX(runtimeScene, 1440 + 360, "", 0);
@@ -648,7 +648,7 @@ if (isConditionTrue_0) {
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(12914836);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(12911772);
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("nome"), gdjs.CelularCode.GDnomeObjects2);
@@ -697,7 +697,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonPressed(runtimeScene, "Left");
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(12892068);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(12888980);
 }
 }
 if (isConditionTrue_0) {
